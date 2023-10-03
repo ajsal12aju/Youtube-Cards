@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-       <h1 style={{textAlign:"center"}}>Welcome to Youtube</h1>
+       <h1 style={{textAlign:"center"}}> Youtube Cards </h1>
        <Card/>
     </div>
   );
